@@ -1,4 +1,7 @@
+package com.pratice.ArrayQuestion;
+
 /*
+
 Write a program to store array dynamically by reading the size 
  and elements from the user.
  Input as: 

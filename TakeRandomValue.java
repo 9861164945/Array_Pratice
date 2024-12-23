@@ -1,3 +1,5 @@
+package com.pratice.ArrayQuestion;
+
 import java.util.Random;
 import java.util.*;
 class TakeRandomValue
